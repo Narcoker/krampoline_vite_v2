@@ -53,7 +53,7 @@ function Layout() {
       </div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count} test
+          count is {count}
         </button>
       </div>
     </div>
